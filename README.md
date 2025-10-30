@@ -54,5 +54,6 @@ Eloquent Models → Product ↔ Variant (hasMany)
 
 All endpoints tested and documented in **Postman**.
 
-[Open Interactive API Docs](https://documenter.getpostman.com/view/25006896/2sB3WnwhCu)
+Open Interactive API Docs
 
+<a href="https://documenter.getpostman.com/view/25006896/2sB3WnwhCu">https://documenter.getpostman.com/view/25006896/2sB3WnwhCu</a>
